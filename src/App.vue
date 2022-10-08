@@ -24,7 +24,7 @@
 <template>
     <div class="w-[90vw] lg:w-[60vw]">
         <header class="bg-[#E8ECEF] py-2 pl-2 rounded-t-lg">
-            azatakmyradov.js
+            akmyradov.me
         </header>
         <div class="bg-[#384a56] text-[#E8ECEF]">
             <ul class="flex">
