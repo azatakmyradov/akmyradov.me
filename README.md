@@ -1,7 +1,24 @@
-# Vue 3 + Vite
+# Old Portfolio
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Although I still appreciate the design of my previous portfolio website, I don't believe it effectively highlights my work.
 
-## Recommended IDE Setup
+You can access demo here:
+[Demo](http://oldportfolio.akmyradov.xyz)
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+## Project Setup
+
+```sh
+npm install
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+npm run dev
+```
+
+### Compile and Minify for Production
+
+```sh
+npm run build
+```
